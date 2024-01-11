@@ -10,6 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/chrisrraP/configure-ad)
   - [Active Directory- Network File Sharing and Permissions](https://github.com/chrisrraP/Network-File-Sharing-and-Permissions)
   - [DNS Record Activity](https://github.com/chrisrraP/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 
 <h2>🤳Connect with me:</h2>
 
